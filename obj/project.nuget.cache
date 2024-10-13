@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "1AfEcIIXoPVvgzDDYCKSg0XXVwr7fliG5rP6fqe1R5llx4SoW15EUEzWFn5DD9mYVP+zuw5blhhvUZsf4a8qCw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\netho\\Desktop\\UNIR\\Entornos de Integracion y Entrega Continua\\Act_Grupal\\practica-unir-eiec\\practica-unir-eiec.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\netho\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\netho\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\netho\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\netho\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\netho\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\netho\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
