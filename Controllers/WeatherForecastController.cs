@@ -8,7 +8,7 @@ namespace practica_unir_eiec.Controllers
     {
         private static readonly string[] Summaries = new[]
         {
-        "Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching"
+        "Helado", "Fresco", "Frio", "Bien", "Templado", "Calido", "Agradable", "Caliente", "Sofocante", "Abrazador"
     };
 
         private readonly ILogger<WeatherForecastController> _logger;
