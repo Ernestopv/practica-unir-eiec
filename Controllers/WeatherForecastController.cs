@@ -2,6 +2,7 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace practica_unir_eiec.Controllers
 {
+    // this is the controller for the API
     [ApiController]
     [Route("[controller]")]
     public class WeatherForecastController : ControllerBase
