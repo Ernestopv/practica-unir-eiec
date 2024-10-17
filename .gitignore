@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+*.v2
+/.vs/practica-unir-eiec/FileContentIndex/6ec3c513-d720-494f-9cb8-54188585e508.vsidx
+/.vs/practica-unir-eiec/FileContentIndex/34215d4b-e7d5-4b43-b4c7-541d59489dc7.vsidx
+*.vsidx
