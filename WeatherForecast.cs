@@ -12,5 +12,11 @@ namespace practica_unir_eiec
 
         public string? Summary { get; set; }
     }
-    
+
+    //Check if it's freezing
+        public bool IsFreezing()
+        {
+            return TemperatureC <= 0;
+        }
+
 }
