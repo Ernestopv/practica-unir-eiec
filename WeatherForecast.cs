@@ -1,5 +1,6 @@
 namespace practica_unir_eiec
 {
+    // this class defines parameters about the weather 
     public class WeatherForecast
     {
         public DateTime Date { get; set; }
